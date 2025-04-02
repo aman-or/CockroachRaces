@@ -24,15 +24,6 @@ git clone https://github.com/aman-or/CockroachRaces.git
 cd CockroachRaces
 ```
 
-## Структура проекта
-```
-CockroachRaces/
-│-- src/                # Исходный код программы
-│-- include/            # Заголовочные файлы
-│-- assets/             # Ресурсы (изображения, JSON-файлы и т. д.)
-│-- CMakeLists.txt      # CMake-скрипт для сборки проекта
-│-- README.md           # Описание проекта
-```
 
 ## Авторы
 - [aman-or](https://github.com/aman-or)
