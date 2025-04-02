@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>img/second.png</file>
+        <file>img/first.png</file>
+        <file>img/fifth.png</file>
+        <file>img/fourth.png</file>
+        <file>img/third.gif</file>
+        <file>img/field.png</file>
+    </qresource>
+</RCC>
