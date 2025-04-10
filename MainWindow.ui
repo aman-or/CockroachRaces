@@ -345,7 +345,7 @@
    <widget class="QPushButton" name="enterAnswer">
     <property name="geometry">
      <rect>
-      <x>560</x>
+      <x>460</x>
       <y>280</y>
       <width>111</width>
       <height>41</height>
@@ -365,8 +365,8 @@
    <widget class="QLineEdit" name="playerSum_1">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>570</y>
+      <x>390</x>
+      <y>240</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -375,8 +375,8 @@
    <widget class="QLineEdit" name="playerSum_2">
     <property name="geometry">
      <rect>
-      <x>470</x>
-      <y>570</y>
+      <x>520</x>
+      <y>240</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -385,8 +385,8 @@
    <widget class="QLineEdit" name="playerSum_3">
     <property name="geometry">
      <rect>
-      <x>600</x>
-      <y>570</y>
+      <x>650</x>
+      <y>240</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -395,8 +395,8 @@
    <widget class="QLineEdit" name="playerSum_4">
     <property name="geometry">
      <rect>
-      <x>730</x>
-      <y>570</y>
+      <x>780</x>
+      <y>240</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -405,8 +405,8 @@
    <widget class="QLineEdit" name="playerSum_5">
     <property name="geometry">
      <rect>
-      <x>860</x>
-      <y>570</y>
+      <x>910</x>
+      <y>240</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -415,8 +415,8 @@
    <widget class="QLabel" name="playerName_1">
     <property name="geometry">
      <rect>
-      <x>340</x>
-      <y>540</y>
+      <x>390</x>
+      <y>210</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -434,8 +434,8 @@
    <widget class="QLabel" name="playerName_2">
     <property name="geometry">
      <rect>
-      <x>480</x>
-      <y>540</y>
+      <x>530</x>
+      <y>210</y>
       <width>111</width>
       <height>31</height>
      </rect>
@@ -453,8 +453,8 @@
    <widget class="QLabel" name="playerName_3">
     <property name="geometry">
      <rect>
-      <x>610</x>
-      <y>540</y>
+      <x>660</x>
+      <y>210</y>
       <width>111</width>
       <height>31</height>
      </rect>
@@ -472,8 +472,8 @@
    <widget class="QLabel" name="playerName_4">
     <property name="geometry">
      <rect>
-      <x>730</x>
-      <y>540</y>
+      <x>780</x>
+      <y>210</y>
       <width>121</width>
       <height>31</height>
      </rect>
@@ -491,8 +491,8 @@
    <widget class="QLabel" name="playerName_5">
     <property name="geometry">
      <rect>
-      <x>870</x>
-      <y>540</y>
+      <x>920</x>
+      <y>210</y>
       <width>111</width>
       <height>31</height>
      </rect>
@@ -510,8 +510,8 @@
    <widget class="QPushButton" name="placeBetButton">
     <property name="geometry">
      <rect>
-      <x>510</x>
-      <y>610</y>
+      <x>560</x>
+      <y>280</y>
       <width>111</width>
       <height>41</height>
      </rect>
@@ -588,9 +588,9 @@
    <widget class="QPushButton" name="continueButton">
     <property name="geometry">
      <rect>
-      <x>480</x>
+      <x>470</x>
       <y>610</y>
-      <width>111</width>
+      <width>121</width>
       <height>41</height>
      </rect>
     </property>
@@ -847,10 +847,16 @@
     <property name="title">
      <string>Made by Aman</string>
     </property>
+    <addaction name="action_2_4"/>
    </widget>
    <addaction name="menuCockroach_Races"/>
   </widget>
   <widget class="QStatusBar" name="statusbar"/>
+  <action name="action_2_4">
+   <property name="text">
+    <string>Оразгельдыев Аман, группа 2-МВ-4</string>
+   </property>
+  </action>
  </widget>
  <resources>
   <include location="resource.qrc"/>
